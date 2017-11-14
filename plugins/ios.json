@@ -1,0 +1,55 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-camera": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-media-capture": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "MICROPHONE_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-geolocation": {
+      "GEOLOCATION_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.chkoreags"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.chkoreags"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.chkoreags"
+    }
+  }
+}
